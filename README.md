@@ -1,5 +1,5 @@
 - 👀 I’m interested in C++, Rust, Python
-- 🌱 I’m currently relearning C++ fro arduino projects
+- 🌱 I’m currently relearning C++ for Arduino/RPi Pico projects
 
 <!---
 chemysterium/chemysterium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
